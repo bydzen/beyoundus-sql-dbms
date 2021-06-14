@@ -1,0 +1,16 @@
+id_task,id_proyek,deskripsi_pekerjaan,durasi_waktu,tanggal_test,nilai_progress,status_task,feedback_approval
+T01,P01,Melakukan pengiklanan produk berbayar melalui Facebook,297,12-Dec-2019,62,Belum Selesai,Tenggat waktu pengiklanan belum berakhir
+T02,P02,Melakukan implementasi ide terhadap produk yang akan didesain,444,21-Sep-2017,44,Belum Selesai,Belum teimplementasi seutuhnya dari ide yang ada
+T03,P03,Memodelkan suatu data untuk kebutuhan konsumen dalam experience terhadap aplikasi,151,17-May-2018,100,Selesai,Telah disetujui
+T04,P04,Menguji kelayakan berdasarkan kualitas dan kuantitas yang disesuaikan dengan harga,447,19-Jul-2020,77,Belum Selesai,Menunggu uji kelayakan tahap IV untuk produk tahun 2020
+T05,P05,Penelitian terhadap ceruk atau niche market yang cocok,346,16-Apr-2019,75,Belum Selesai,Kurang penelitian pada hasil uji produk tahap IV
+T06,P06,Pembersihan data customer yang mempunyai data tidak teratur,219,14-Feb-2018,100,Selesai,Telah disetujui
+T07,P07,Pengembangan software untuk aplikasi smartphone,236,11-Nov-2019,58,Belum Selesai,Sedang dalam progress untuk mengembangkan database aplikasi
+T08,P08,Merangkum material dari hasil kerja penelitian desain produk,486,23-Nov-2019,56,Belum Selesai,Terlalu banyak desain dan ide yang sudah ada belum diimplementasikan ke elemen
+T09,P09,Melakukan kuseioner terhadap pengujian UX pada tim uji perusahaan,380,13-Jan-2019,88,Belum Selesai,Kuesioner kurang dari target minimal
+T10,P10,Melakukan pengimplementasian API untuk pemasangan aplikasi,557,18-Jun-2020,71,Belum Selesai,Menunggu progress pengembangan software
+T11,P11,Kegiatan untuk merancang product yang telah lulus uji,236,24-Dec-2017,100,Selesai,Belum disetujui
+T12,P12,Alat yang digunakan untuk mendukung sebuah pekerjaan,162,20-Aug-2020,44,Belum Selesai,Kurangnya persediaan alat dan masih dalam pengiriman
+T13,P13,Membagi dan menentukan durasi atau waktu untuk kegiatan tertentu,325,22-Oct-2020,96,Belum Selesai,Hampir sempurna hanya kurang untuk proyek yang belum update
+T14,P14,Menganalisa kebutuhan biaya yang dikeluarkan oleh perusahaan,584,15-Mar-2019,100,Selesai,Telah disetujui
+T15,P15,Melakukan printing sebagai acuan final design dalam pembuatan produk,215,10-Oct-2018,45,Belum Selesai,Menunggu progress design dan material design

@@ -1,0 +1,16 @@
+id_proyek,nip,nama,deskripsi,durasi,tanggal_mulai
+P01,199811232021151002,Pengiklanan Facebook Ads,Melakukan pengiklanan produk berbayar melalui Facebook,297,12-Dec-2019
+P02,199306182021152007,Product Design Thinking,Melakukan implementasi ide terhadap produk yang akan didesain,444,21-Sep-2017
+P03,198902142021152011,Data Modelling,Memodelkan suatu data untuk kebutuhan konsumen dalam experience terhadap aplikasi,151,17-May-2018
+P04,198510102021151015,Studi Kelayakan,Menguji kelayakan berdasarkan kualitas dan kuantitas yang disesuaikan dengan harga,447,19-Jul-2020
+P05,198801132021151012,Studi Pasar,Penelitian terhadap ceruk atau niche market yang cocok,346,16-Apr-2019
+P06,199609212021151004,Data Wrangle,Pembersihan data customer yang mempunyai data tidak teratur,219,14-Feb-2018
+P07,199104162021151009,Software Mobile Apps,Pengembangan software untuk aplikasi smartphone,236,11-Nov-2019
+P08,198712122021151013,Material Component,Merangkum material dari hasil kerja penelitian desain produk,486,23-Nov-2019
+P09,199710222021151003,UI and UX Researcher,Melakukan kuseioner terhadap pengujian UX pada tim uji perusahaan,380,13-Jan-2019
+P10,199407192021151006,Instalasi,Melakukan pengimplementasian API untuk pemasangan aplikasi,557,18-Jun-2020
+P11,199508202021151005,Fabrikasi,Kegiatan untuk merancang product yang telah lulus uji,236,24-Dec-2017
+P12,199912242021151001,Program Pendukung,Alat yang digunakan untuk mendukung sebuah pekerjaan,162,20-Aug-2020
+P13,199205172021152008,Management,Membagi dan menentukan durasi atau waktu untuk kegiatan tertentu,325,22-Oct-2020
+P14,198611112021152014,Analisis Biaya,Menganalisa kebutuhan biaya yang dikeluarkan oleh perusahaan,584,15-Mar-2019
+P15,199003152021151010,Blueprints Pemrosesan Produk,Melakukan printing sebagai acuan final design dalam pembuatan produk,215,10-Oct-2018
